@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ucnorahss
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning new things in HTML, CSS, JS, Python.
-- 💞️ I’m looking to collaborate on the community to learn new styling and codes.
+- 👀 I’m into Cybersecurity
+- 🌱 I’m a full Cybersecurity expert, good at Red team, Blue team and GRC aspect.
+- 💞️ I’m looking to collaborate on the community to learn more, especially Zero day attacks.
 - 📫 How to reach me, my username @Ucnorahss
 
 <!---
